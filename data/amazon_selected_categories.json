@@ -1,0 +1,72 @@
+[
+  {
+    "name": "All_Beauty",
+    "path": "raw/review_categories/All_Beauty.jsonl",
+    "size": 326611506,
+    "reason": "beauty/cosmetics",
+    "source": "preferred"
+  },
+  {
+    "name": "Video_Games",
+    "path": "raw/review_categories/Video_Games.jsonl",
+    "size": 2682948518,
+    "reason": "video games",
+    "source": "preferred"
+  },
+  {
+    "name": "Musical_Instruments",
+    "path": "raw/review_categories/Musical_Instruments.jsonl",
+    "size": 1557845107,
+    "reason": "musical instruments",
+    "source": "preferred"
+  },
+  {
+    "name": "Software",
+    "path": "raw/review_categories/Software.jsonl",
+    "size": 1869151448,
+    "reason": "software",
+    "source": "preferred"
+  },
+  {
+    "name": "Industrial_and_Scientific",
+    "path": "raw/review_categories/Industrial_and_Scientific.jsonl",
+    "size": 2347015351,
+    "reason": "industrial & scientific",
+    "source": "preferred"
+  },
+  {
+    "name": "Appliances",
+    "path": "raw/review_categories/Appliances.jsonl",
+    "size": 929451412,
+    "reason": "appliances",
+    "source": "preferred"
+  },
+  {
+    "name": "Amazon_Fashion",
+    "path": "raw/review_categories/Amazon_Fashion.jsonl",
+    "size": 1051324731,
+    "reason": "fashion (alt clothing)",
+    "source": "fallback"
+  },
+  {
+    "name": "Baby_Products",
+    "path": "raw/review_categories/Baby_Products.jsonl",
+    "size": 2947785967,
+    "reason": "baby products (alt pets/kids)",
+    "source": "fallback"
+  },
+  {
+    "name": "Handmade_Products",
+    "path": "raw/review_categories/Handmade_Products.jsonl",
+    "size": 289025980,
+    "reason": "handmade",
+    "source": "fallback"
+  },
+  {
+    "name": "Health_and_Personal_Care",
+    "path": "raw/review_categories/Health_and_Personal_Care.jsonl",
+    "size": 226990293,
+    "reason": "health & personal care (alt beauty)",
+    "source": "fallback"
+  }
+]

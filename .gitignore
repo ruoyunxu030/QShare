@@ -1,0 +1,10 @@
+data_real/
+.pixi/
+__pycache__/
+*.pyc
+.python-version
+shards/
+*.log
+.pytest_cache/
+results/quick/
+results/store/smoke/

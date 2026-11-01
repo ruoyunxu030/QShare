@@ -1,0 +1,14 @@
+numpy==1.26.4
+scipy==1.10.1
+scikit-learn>=1.5
+matplotlib>=3.8
+pandas>=2.0
+tqdm
+torch>=2.2
+torchvision
+pillow
+sentence-transformers==5.7.0
+huggingface-hub>=2.2.0,<3
+git+https://github.com/openai/CLIP.git
+# SQLite is the Python stdlib module; this repo was checked with SQLite 3.54.1
+# Embeddings: BAAI/bge-base-en-v1.5 (Amazon), OpenAI CLIP ViT-L/14 (DomainNet, CIFAR-10N)
